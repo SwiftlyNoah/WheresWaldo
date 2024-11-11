@@ -7,4 +7,4 @@ This app uses a zero-knowledge proof mechanism to verify the location of Waldo w
 
 Good luck finding Waldo!
 
-Originally created for the Blockcahin at Noble and Greenough School on 3/28/24 
+Originally created for the Blockchain course at Noble and Greenough School on 3/28/24 
