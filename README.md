@@ -3,6 +3,8 @@
 # Where's Waldo  
 
 ### Description  
-This app uses a zero-knowledge proof mechanism to verify the location of Waldo without revealing it outright. It shows the original image with a cut-out over Waldo's spot, validating that the user has found him without fully disclosing his position. Then, it zooms out to display the challenge image, confirming success while preserving the puzzle's integrity.
+This app uses a zero-knowledge proof mechanism to verify the location of Waldo without revealing it outright. It shows the original image with a cut-out over Waldo's spot, validating that puzzle is fair and contains Waldo without disclosing his position. Then, it zooms out to display the challenge image, confirming success while preserving the puzzle's integrity.
 
 Good luck finding Waldo!
+
+Originally created for the Blockcahin at Noble and Greenough School on 3/28/24 
